@@ -47,3 +47,5 @@ import sys      # Controle do sistema para fechar o jogo corretamente
 - Normal (velocidade 10)
 
 - Difícil (velocidade 18)
+
+# Python 3.13
